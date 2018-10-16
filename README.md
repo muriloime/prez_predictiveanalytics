@@ -3,7 +3,7 @@
 O objetivo deste repositório é passarmos por todos os estágios de predictive analytics:
 
 * Definição do problema
-* Coleção de dados
+* Coleta de dados
 * Análise de dados
 * Estatística
 * Modelagem
